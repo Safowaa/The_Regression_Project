@@ -133,8 +133,9 @@ venv.bak/
 virtual/
 
 Project_data/train_data.csv
-
 Project_data/train.csv
+Project_data/training_set.csv
+
 
 # Spyder project settings
 .spyderproject
