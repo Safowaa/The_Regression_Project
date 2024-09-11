@@ -104,7 +104,7 @@ EDA was performed to understand the distribution of data, detect anomalies, and 
 Several business questions were asked and answered through visualizations:
 
 ### PowerBI Dashboard 
-![Telco Churn Analysis Dashboard](....)
+![Telco Churn Analysis Dashboard](Visuals\PowerBI.png)
 
 1. **Compare the sales for each month across the years and determine which month of which year had the highest sales.**
    ![Year and it highest month sale](Visuals\m&s.png)
