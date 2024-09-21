@@ -92,7 +92,7 @@ EDA was performed to understand the distribution of data, detect anomalies, and 
 
 - Distribution of customers based on tenure, monthly charges, and contract type.
 ### EDA Visualization
-![Holidays and Events](Visuals\H&E.png)
+![Holidays and Events](https://github.com/Safowaa/The_Regression_Project/blob/master/Visuals/H%26E.png)
 
 ![Oil Sales](Visuals\OIL.png)
 
