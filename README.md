@@ -92,6 +92,7 @@ EDA was performed to understand the distribution of data, detect anomalies, and 
 
 - Distribution of customers based on tenure, monthly charges, and contract type.
 ### EDA Visualization
+#### Holidays and Events
 ![Holidays and Events](https://github.com/Safowaa/The_Regression_Project/blob/master/Visuals/H%26E.png)
 
 ![Oil Sales](Visuals\OIL.png)
@@ -116,16 +117,14 @@ Several business questions were asked and answered through visualizations:
    ![Correlation Heatmap of oil price, promotions, and holidays](Visuals\promo&oil.png).
 
 4. **What analysis can we get from the date and its extractable features?**
-   ![Cluster of sales over dyas, years, months](Visuals\cluster1.png).
-   ![.](Visuals\cluster2.1.png)
-   ![.](Visuals\cluster3.png)
+   ![.](Visuals\cluster1.png)
 ## Machine Learning Model
 
 A machine learning model was built to predict future sales trends and optimise inventory management for the store. The process involved:
 
 - Data preprocessing: Handling missing values, encoding categorical variables, and feature scaling.
-- Model selection: Evaluated multiple models including ARIMA, ETS, RandomForest, and XGBoost.
-- Model evaluation: Used metrics such as accuracy, precision, recall, and F1-score to evaluate model performance.
+- Model selection: Evaluated multiple models including ARIMA, RandomForest, XGBoost etc.
+- Model evaluation: Used metrics such as rmsle, mse, rmse, mae to evaluate model performance.
 
 The best-performing model was chosen based on these evaluation metrics and used to predict the churn column in the test data.
 
@@ -143,7 +142,7 @@ The time series analysis and machine learning model have provided valuable insig
 
 ## Recommendations
 
-- ...
+Stores are encouraged to save data in a more stuctured way.
 
 ## References
 
