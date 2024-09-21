@@ -95,9 +95,9 @@ EDA was performed to understand the distribution of data, detect anomalies, and 
 #### Holidays and Events
 ![Holidays and Events](https://github.com/Safowaa/The_Regression_Project/blob/master/Visuals/H%26E.png)
 
-![Oil Sales](Visuals\OIL.png)
+![Oil Sales](https://github.com/Safowaa/The_Regression_Project/blob/master/Visuals/OIL.png)
 
-![Sales Overtime](Visuals\SALES.png)
+![Sales Overtime](https://github.com/Safowaa/The_Regression_Project/blob/master/Visuals/SALES.png)
 
 
 ## Some Business Questions and Visualizations
@@ -105,19 +105,19 @@ EDA was performed to understand the distribution of data, detect anomalies, and 
 Several business questions were asked and answered through visualizations:
 
 ### PowerBI Dashboard 
-![Telco Churn Analysis Dashboard](Visuals\PowerBI.png)
+![Telco Churn Analysis Dashboard](https://github.com/Safowaa/The_Regression_Project/blob/master/Visuals/PowerBI.png)
 
 1. **Compare the sales for each month across the years and determine which month of which year had the highest sales.**
-   ![Year and it highest month sale](Visuals\m&s.png)
+   ![Year and it highest month sale](https://github.com/Safowaa/The_Regression_Project/blob/master/Visuals/m%26s.png)
    
 2. **Did the earthquake impact sales?**
-   ![Service to Churn](Visuals\sale&earthquake.png)
+   ![Service to Churn](https://github.com/Safowaa/The_Regression_Project/blob/master/Visuals/sale%26earthquake.png)
    
 3. **Are sales affected by promotions, oil prices and holidays?**
-   ![Correlation Heatmap of oil price, promotions, and holidays](Visuals\promo&oil.png).
+   ![Correlation Heatmap of oil price, promotions, and holidays](https://github.com/Safowaa/The_Regression_Project/blob/master/Visuals/promo%26oil.png).
 
 4. **What analysis can we get from the date and its extractable features?**
-   ![.](Visuals\cluster1.png)
+   ![.](https://github.com/Safowaa/The_Regression_Project/blob/master/Visuals/cluster1.png)
 ## Machine Learning Model
 
 A machine learning model was built to predict future sales trends and optimise inventory management for the store. The process involved:
